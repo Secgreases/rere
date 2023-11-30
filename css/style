@@ -1,0 +1,13 @@
+.my-div{
+	color: whitesmoke;
+	background: hotpink;
+	text-align: center;
+}
+.nanana{
+	color: darkred;
+	text-align: center;
+}
+.link {
+	color: black;
+	text-align: center;
+}
